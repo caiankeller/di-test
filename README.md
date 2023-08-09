@@ -4,7 +4,7 @@
 
 ## Instructions
 
-> use Python3
+> use Python 3
 
 ### How to run
 
